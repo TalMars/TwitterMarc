@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2863019667">
+    <data-source source="LOCAL" name="twitter_bd.h2" uuid="69283a2a-4e68-4f56-925c-52ca91dc359b">
+      <driver-ref>h2.embedded</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:C:\Users\Марсель\IdeaProjects\Twitter\src\main\webapp\database\twitter_bd</jdbc-url>
+      <libraries>
+        <library>
+          <url>jar://$MAVEN_REPOSITORY$/com/h2database/h2/1.4.187/h2-1.4.187.jar!/</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
